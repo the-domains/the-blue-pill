@@ -1,0 +1,14 @@
+layout_spectrum: 0.7728249
+color:
+  saturation: 0.4634801
+  lightness: 0.9736842
+  brandStrength: 0.9940923
+  brandColors:
+    - '#010101'
+    - '#1D5E88'
+    - '#BDBDBD'
+    - '#E8E9EA'
+    - '#656565'
+  rhythmicContrast: 0.7320086
+typography_spectrum: 0.9210526
+name: 'The blue pill '
